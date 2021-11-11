@@ -16,7 +16,7 @@ class MyAlgo:
             time=float(c[1])
             src=int(c[2])
             dest=int(c[3])
-            type=c[4]
+            type=c[4]   #notRelvant
             allocatedTo=int(c[5])
             self.Calls_list.append(CallForElevator(time,src,dest,type,allocatedTo))
 
