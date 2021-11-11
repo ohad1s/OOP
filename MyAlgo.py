@@ -70,8 +70,8 @@ class MyAlgo:
     def __repr__(self) -> str:
         return self.__str__()
 
-    def allocateTo(self):
-        if
+    # def allocateTo(self):
+
 
 
 
